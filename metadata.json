@@ -1,0 +1,7 @@
+{
+  "name": "Remix: InduSmart - IoT Architecture & Strategy",
+  "description": "A comprehensive industrial IoT system design and startup strategy for InduSmart, featuring real-time monitoring and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
